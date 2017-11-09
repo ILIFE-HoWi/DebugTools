@@ -1,0 +1,8 @@
+E:\C#_Project\Creat OTA File\Creat OTA File\bin\Debug\Creat OTA File.exe
+E:\C#_Project\Creat OTA File\Creat OTA File\bin\Debug\Creat OTA File.pdb
+E:\C#_Project\Creat OTA File\Creat OTA File\obj\Debug\Creat OTA File.csprojResolveAssemblyReference.cache
+E:\C#_Project\Creat OTA File\Creat OTA File\obj\Debug\Creat_OTA_File.MainForm.resources
+E:\C#_Project\Creat OTA File\Creat OTA File\obj\Debug\Creat_OTA_File.Properties.Resources.resources
+E:\C#_Project\Creat OTA File\Creat OTA File\obj\Debug\Creat OTA File.csproj.GenerateResource.Cache
+E:\C#_Project\Creat OTA File\Creat OTA File\obj\Debug\Creat OTA File.exe
+E:\C#_Project\Creat OTA File\Creat OTA File\obj\Debug\Creat OTA File.pdb
